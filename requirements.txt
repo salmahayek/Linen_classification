@@ -1,0 +1,6 @@
+torch
+torchvision
+matplotlib
+pillow
+pillow-avif-plugin
+pillow-heif
